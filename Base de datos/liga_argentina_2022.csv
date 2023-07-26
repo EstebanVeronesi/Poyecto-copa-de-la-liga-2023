@@ -1,0 +1,379 @@
+local,resultado,visitante,fecha
+Barracas Central,1 -                                         1,Central Córdoba (Santiago del Estero),regular_a_1
+At. Tucumán,1 -                                         1,Colón de Santa Fe,regular_a_1
+San Lorenzo de Almagro,1 -                                         1,Independiente,regular_a_1
+Banfield,1 -                                         2,Newell´s Old Boys,regular_a_1
+Patronato,1 -                                         1,Vélez Sarsfield,regular_a_1
+Platense,2 -                                         1,Godoy Cruz,regular_a_1
+Racing Club,2 -                                         0,Huracán,regular_a_1
+Talleres,2 -                                         0,Sarmiento,regular_a_1
+Unión Santa Fe,1 -                                         2,Tigre,regular_a_1
+Estudiantes,1 -                                         1,Gimnasia La Plata,regular_a_1
+Boca Juniors,2 -                                         1,Arsenal de Sarandí,regular_a_1
+Defensa y Justicia,0 -                                         0,River Plate,regular_a_1
+Rosario Central,0 -                                         0,Lanús,regular_a_1
+Argentinos Juniors,2 -                                         1,Aldosivi,regular_a_1
+Newell´s Old Boys,0 -                                         0,San Lorenzo de Almagro,regular_a_2
+Gimnasia La Plata,2 -                                         0,Patronato,regular_a_2
+Aldosivi,0 -                                         1,Estudiantes,regular_a_2
+Lanús,1 -                                         1,Defensa y Justicia,regular_a_2
+Huracán,2 -                                         0,Rosario Central,regular_a_2
+Independiente,1 -                                         0,Talleres,regular_a_2
+Arsenal de Sarandí,0 -                                         0,Banfield,regular_a_2
+Tigre,1 -                                         1,Barracas Central,regular_a_2
+Sarmiento,1 -                                         0,Argentinos Juniors,regular_a_2
+River Plate,0 -                                         0,At. Tucumán,regular_a_2
+Colón de Santa Fe,2 -                                         2,Unión Santa Fe,regular_a_2
+Godoy Cruz,2 -                                         0,Racing Club,regular_a_2
+Vélez Sarsfield,0 -                                         1,Platense,regular_a_2
+Central Córdoba (Santiago del Estero),1 -                                         0,Boca Juniors,regular_a_2
+San Lorenzo de Almagro,3 -                                         3,Arsenal de Sarandí,regular_a_3
+Patronato,1 -                                         0,Aldosivi,regular_a_3
+Talleres,0 -                                         1,Newell´s Old Boys,regular_a_3
+Defensa y Justicia,1 -                                         1,Huracán,regular_a_3
+Estudiantes,2 -                                         1,Sarmiento,regular_a_3
+Barracas Central,1 -                                         2,Unión Santa Fe,regular_a_3
+At. Tucumán,2 -                                         1,Lanús,regular_a_3
+Banfield,2 -                                         1,Central Córdoba (Santiago del Estero),regular_a_3
+Colón de Santa Fe,1 -                                         0,River Plate,regular_a_3
+Boca Juniors,5 -                                         3,Tigre,regular_a_3
+Argentinos Juniors,2 -                                         1,Independiente,regular_a_3
+Rosario Central,1 -                                         0,Godoy Cruz,regular_a_3
+Platense,1 -                                         1,Gimnasia La Plata,regular_a_3
+Racing Club,2 -                                         0,Vélez Sarsfield,regular_a_3
+Arsenal de Sarandí,1 -                                         1,Talleres,regular_a_4
+Sarmiento,3 -                                         1,Patronato,regular_a_4
+Tigre,0 -                                         1,Banfield,regular_a_4
+Huracán,0 -                                         0,At. Tucumán,regular_a_4
+Lanús,1 -                                         0,Colón de Santa Fe,regular_a_4
+Unión Santa Fe,1 -                                         5,River Plate,regular_a_4
+Barracas Central,1 -                                         3,Boca Juniors,regular_a_4
+Godoy Cruz,2 -                                         1,Defensa y Justicia,regular_a_4
+Gimnasia La Plata,3 -                                         1,Racing Club,regular_a_4
+Vélez Sarsfield,2 -                                         0,Rosario Central,regular_a_4
+Independiente,2 -                                         1,Estudiantes,regular_a_4
+Newell´s Old Boys,1 -                                         0,Argentinos Juniors,regular_a_4
+Aldosivi,0 -                                         0,Platense,regular_a_4
+Central Córdoba (Santiago del Estero),0 -                                         2,San Lorenzo de Almagro,regular_a_4
+Banfield,1 -                                         1,Barracas Central,regular_a_5
+Rosario Central,0 -                                         1,Gimnasia La Plata,regular_a_5
+Boca Juniors,1 -                                         2,Unión Santa Fe,regular_a_5
+Defensa y Justicia,1 -                                         1,Vélez Sarsfield,regular_a_5
+Talleres,0 -                                         2,Central Córdoba (Santiago del Estero),regular_a_5
+Colón de Santa Fe,0 -                                         1,Huracán,regular_a_5
+Estudiantes,0 -                                         2,Newell´s Old Boys,regular_a_5
+River Plate,2 -                                         1,Lanús,regular_a_5
+San Lorenzo de Almagro,1 -                                         1,Tigre,regular_a_5
+Platense,0 -                                         0,Sarmiento,regular_a_5
+Racing Club,5 -                                         0,Aldosivi,regular_a_5
+Argentinos Juniors,1 -                                         1,Arsenal de Sarandí,regular_a_5
+Patronato,3 -                                         1,Independiente,regular_a_5
+At. Tucumán,1 -                                         1,Godoy Cruz,regular_a_5
+Central Córdoba (Santiago del Estero),1 -                                         2,Argentinos Juniors,regular_a_6
+Boca Juniors,0 -                                         3,Banfield,regular_a_6
+Tigre,1 -                                         1,Talleres,regular_a_6
+Godoy Cruz,1 -                                         0,Colón de Santa Fe,regular_a_6
+Vélez Sarsfield,0 -                                         1,At. Tucumán,regular_a_6
+Gimnasia La Plata,1 -                                         0,Defensa y Justicia,regular_a_6
+Unión Santa Fe,3 -                                         0,Lanús,regular_a_6
+Barracas Central,2 -                                         1,San Lorenzo de Almagro,regular_a_6
+Sarmiento,1 -                                         1,Racing Club,regular_a_6
+Huracán,3 -                                         2,River Plate,regular_a_6
+Arsenal de Sarandí,2 -                                         1,Estudiantes,regular_a_6
+Aldosivi,2 -                                         1,Rosario Central,regular_a_6
+Newell´s Old Boys,2 -                                         2,Patronato,regular_a_6
+Independiente,1 -                                         3,Platense,regular_a_6
+Rosario Central,1 -                                         0,Sarmiento,regular_a_7
+Patronato,0 -                                         1,Arsenal de Sarandí,regular_a_7
+San Lorenzo de Almagro,2 -                                         1,Boca Juniors,regular_a_7
+Banfield,2 -                                         3,Unión Santa Fe,regular_a_7
+Platense,1 -                                         1,Newell´s Old Boys,regular_a_7
+Talleres,0 -                                         2,Barracas Central,regular_a_7
+Estudiantes,2 -                                         2,Central Córdoba (Santiago del Estero),regular_a_7
+Racing Club,1 -                                         0,Independiente,regular_a_7
+At. Tucumán,2 -                                         0,Gimnasia La Plata,regular_a_7
+Lanús,2 -                                         3,Huracán,regular_a_7
+River Plate,0 -                                         2,Godoy Cruz,regular_a_7
+Colón de Santa Fe,2 -                                         1,Vélez Sarsfield,regular_a_7
+Defensa y Justicia,3 -                                         2,Aldosivi,regular_a_7
+Argentinos Juniors,2 -                                         1,Tigre,regular_a_7
+Central Córdoba (Santiago del Estero),1 -                                         3,Patronato,regular_a_8
+Sarmiento,2 -                                         0,Defensa y Justicia,regular_a_8
+Aldosivi,0 -                                         1,At. Tucumán,regular_a_8
+Arsenal de Sarandí,1 -                                         1,Platense,regular_a_8
+Barracas Central,1 -                                         3,Argentinos Juniors,regular_a_8
+Gimnasia La Plata,0 -                                         0,Colón de Santa Fe,regular_a_8
+Independiente,0 -                                         0,Rosario Central,regular_a_8
+Newell´s Old Boys,0 -                                         0,Racing Club,regular_a_8
+Boca Juniors,1 -                                         0,Talleres,regular_a_8
+Godoy Cruz,2 -                                         1,Lanús,regular_a_8
+Unión Santa Fe,0 -                                         0,Huracán,regular_a_8
+Banfield,1 -                                         1,San Lorenzo de Almagro,regular_a_8
+Tigre,2 -                                         1,Estudiantes,regular_a_8
+Vélez Sarsfield,2 -                                         2,River Plate,regular_a_8
+Colón de Santa Fe,1 -                                         1,Aldosivi,regular_a_9
+Platense,2 -                                         0,Central Córdoba (Santiago del Estero),regular_a_9
+At. Tucumán,1 -                                         0,Sarmiento,regular_a_9
+Racing Club,1 -                                         1,Arsenal de Sarandí,regular_a_9
+Argentinos Juniors,2 -                                         0,Boca Juniors,regular_a_9
+San Lorenzo de Almagro,2 -                                         2,Unión Santa Fe,regular_a_9
+Patronato,1 -                                         0,Tigre,regular_a_9
+Defensa y Justicia,2 -                                         1,Independiente,regular_a_9
+Estudiantes,3 -                                         1,Barracas Central,regular_a_9
+Huracán,0 -                                         0,Godoy Cruz,regular_a_9
+Lanús,2 -                                         2,Vélez Sarsfield,regular_a_9
+Rosario Central,1 -                                         0,Newell´s Old Boys,regular_a_9
+Talleres,1 -                                         0,Banfield,regular_a_9
+River Plate,1 -                                         0,Gimnasia La Plata,regular_a_9
+Sarmiento,1 -                                         3,Colón de Santa Fe,regular_a_10
+Central Córdoba (Santiago del Estero),1 -                                         3,Racing Club,regular_a_10
+Independiente,0 -                                         1,At. Tucumán,regular_a_10
+Tigre,3 -                                         0,Platense,regular_a_10
+Aldosivi,0 -                                         3,River Plate,regular_a_10
+Gimnasia La Plata,1 -                                         0,Lanús,regular_a_10
+Boca Juniors,3 -                                         1,Estudiantes,regular_a_10
+San Lorenzo de Almagro,1 -                                         1,Talleres,regular_a_10
+Banfield,1 -                                         1,Argentinos Juniors,regular_a_10
+Newell´s Old Boys,1 -                                         2,Defensa y Justicia,regular_a_10
+Unión Santa Fe,2 -                                         1,Godoy Cruz,regular_a_10
+Vélez Sarsfield,1 -                                         1,Huracán,regular_a_10
+Arsenal de Sarandí,0 -                                         3,Rosario Central,regular_a_10
+Barracas Central,2 -                                         1,Patronato,regular_a_10
+Godoy Cruz,1 -                                         1,Vélez Sarsfield,regular_a_11
+Argentinos Juniors,0 -                                         1,San Lorenzo de Almagro,regular_a_11
+Estudiantes,0 -                                         0,Banfield,regular_a_11
+At. Tucumán,2 -                                         0,Newell´s Old Boys,regular_a_11
+Huracán,0 -                                         1,Gimnasia La Plata,regular_a_11
+Lanús,0 -                                         1,Aldosivi,regular_a_11
+Platense,0 -                                         0,Barracas Central,regular_a_11
+Racing Club,3 -                                         3,Tigre,regular_a_11
+Patronato,3 -                                         0,Boca Juniors,regular_a_11
+River Plate,1 -                                         2,Sarmiento,regular_a_11
+Defensa y Justicia,0 -                                         0,Arsenal de Sarandí,regular_a_11
+Rosario Central,0 -                                         3,Central Córdoba (Santiago del Estero),regular_a_11
+Colón de Santa Fe,0 -                                         3,Independiente,regular_a_11
+Talleres,2 -                                         2,Unión Santa Fe,regular_a_11
+Gimnasia La Plata,2 -                                         0,Godoy Cruz,regular_a_12
+Banfield,0 -                                         0,Patronato,regular_a_12
+Sarmiento,2 -                                         1,Lanús,regular_a_12
+Arsenal de Sarandí,3 -                                         1,At. Tucumán,regular_a_12
+Barracas Central,0 -                                         0,Racing Club,regular_a_12
+Talleres,2 -                                         0,Argentinos Juniors,regular_a_12
+Unión Santa Fe,2 -                                         1,Vélez Sarsfield,regular_a_12
+Boca Juniors,2 -                                         1,Platense,regular_a_12
+Aldosivi,0 -                                         1,Huracán,regular_a_12
+San Lorenzo de Almagro,0 -                                         0,Estudiantes,regular_a_12
+Independiente,0 -                                         1,River Plate,regular_a_12
+Newell´s Old Boys,0 -                                         0,Colón de Santa Fe,regular_a_12
+Central Córdoba (Santiago del Estero),1 -                                         0,Defensa y Justicia,regular_a_12
+Tigre,3 -                                         1,Rosario Central,regular_a_12
+Godoy Cruz,2 -                                         0,Aldosivi,regular_a_13
+At. Tucumán,1 -                                         0,Central Córdoba (Santiago del Estero),regular_a_13
+Colón de Santa Fe,1 -                                         1,Arsenal de Sarandí,regular_a_13
+Huracán,4 -                                         1,Sarmiento,regular_a_13
+Platense,3 -                                         1,Banfield,regular_a_13
+Patronato,3 -                                         2,San Lorenzo de Almagro,regular_a_13
+Defensa y Justicia,0 -                                         0,Tigre,regular_a_13
+Rosario Central,3 -                                         1,Barracas Central,regular_a_13
+Lanús,1 -                                         1,Independiente,regular_a_13
+River Plate,4 -                                         1,Newell´s Old Boys,regular_a_13
+Vélez Sarsfield,1 -                                         1,Gimnasia La Plata,regular_a_13
+Argentinos Juniors,2 -                                         0,Unión Santa Fe,regular_a_13
+Estudiantes,1 -                                         0,Talleres,regular_a_13
+Racing Club,0 -                                         0,Boca Juniors,regular_a_13
+Central Córdoba (Santiago del Estero),3 -                                         0,Colón de Santa Fe,regular_a_14
+Sarmiento,1 -                                         2,Godoy Cruz,regular_a_14
+San Lorenzo de Almagro,2 -                                         0,Platense,regular_a_14
+Independiente,1 -                                         1,Huracán,regular_a_14
+Newell´s Old Boys,2 -                                         0,Lanús,regular_a_14
+Tigre,0 -                                         0,At. Tucumán,regular_a_14
+Arsenal de Sarandí,0 -                                         0,River Plate,regular_a_14
+Boca Juniors,0 -                                         0,Rosario Central,regular_a_14
+Barracas Central,3 -                                         1,Defensa y Justicia,regular_a_14
+Aldosivi,3 -                                         2,Vélez Sarsfield,regular_a_14
+Talleres,3 -                                         3,Patronato,regular_a_14
+Unión Santa Fe,0 -                                         2,Gimnasia La Plata,regular_a_14
+Argentinos Juniors,1 -                                         0,Estudiantes,regular_a_14
+Banfield,0 -                                         2,Racing Club,regular_a_14
+Colón de Santa Fe,2 -                                         1,Tigre,regular_a_15
+Huracán,1 -                                         0,Newell´s Old Boys,regular_a_15
+Lanús,1 -                                         0,Arsenal de Sarandí,regular_a_15
+Godoy Cruz,1 -                                         1,Independiente,regular_a_15
+River Plate,3 -                                         0,Central Córdoba (Santiago del Estero),regular_a_15
+Defensa y Justicia,0 -                                         1,Boca Juniors,regular_a_15
+Estudiantes,1 -                                         0,Unión Santa Fe,regular_a_15
+Rosario Central,0 -                                         1,Banfield,regular_a_15
+Racing Club,1 -                                         2,San Lorenzo de Almagro,regular_a_15
+Platense,0 -                                         0,Talleres,regular_a_15
+Vélez Sarsfield,1 -                                         1,Sarmiento,regular_a_15
+Patronato,0 -                                         0,Argentinos Juniors,regular_a_15
+At. Tucumán,4 -                                         0,Barracas Central,regular_a_15
+Gimnasia La Plata,0 -                                         0,Aldosivi,regular_a_15
+Central Córdoba (Santiago del Estero),2 -                                         2,Lanús,regular_a_16
+Arsenal de Sarandí,1 -                                         1,Huracán,regular_a_16
+San Lorenzo de Almagro,1 -                                         1,Rosario Central,regular_a_16
+Banfield,1 -                                         2,Defensa y Justicia,regular_a_16
+Newell´s Old Boys,1 -                                         2,Godoy Cruz,regular_a_16
+Argentinos Juniors,0 -                                         2,Platense,regular_a_16
+Talleres,1 -                                         1,Racing Club,regular_a_16
+Tigre,1 -                                         1,River Plate,regular_a_16
+Barracas Central,1 -                                         0,Colón de Santa Fe,regular_a_16
+Sarmiento,0 -                                         0,Gimnasia La Plata,regular_a_16
+Independiente,1 -                                         1,Vélez Sarsfield,regular_a_16
+Boca Juniors,2 -                                         1,At. Tucumán,regular_a_16
+Estudiantes,1 -                                         0,Patronato,regular_a_16
+Unión Santa Fe,0 -                                         0,Aldosivi,regular_a_16
+Huracán,2 -                                         0,Central Córdoba (Santiago del Estero),regular_a_17
+Lanús,1 -                                         2,Tigre,regular_a_17
+Rosario Central,1 -                                         0,Talleres,regular_a_17
+Aldosivi,1 -                                         2,Sarmiento,regular_a_17
+Vélez Sarsfield,0 -                                         1,Newell´s Old Boys,regular_a_17
+Racing Club,1 -                                         0,Argentinos Juniors,regular_a_17
+Gimnasia La Plata,3 -                                         1,Independiente,regular_a_17
+Patronato,0 -                                         0,Unión Santa Fe,regular_a_17
+Platense,0 -                                         0,Estudiantes,regular_a_17
+Colón de Santa Fe,1 -                                         2,Boca Juniors,regular_a_17
+River Plate,2 -                                         0,Barracas Central,regular_a_17
+Defensa y Justicia,0 -                                         0,San Lorenzo de Almagro,regular_a_17
+Godoy Cruz,1 -                                         0,Arsenal de Sarandí,regular_a_17
+At. Tucumán,0 -                                         0,Banfield,regular_a_17
+Independiente,3 -                                         0,Aldosivi,regular_a_18
+Argentinos Juniors,2 -                                         1,Rosario Central,regular_a_18
+Unión Santa Fe,1 -                                         0,Sarmiento,regular_a_18
+Barracas Central,2 -                                         0,Lanús,regular_a_18
+Patronato,1 -                                         0,Platense,regular_a_18
+Estudiantes,1 -                                         0,Racing Club,regular_a_18
+Tigre,1 -                                         1,Huracán,regular_a_18
+Central Córdoba (Santiago del Estero),3 -                                         0,Godoy Cruz,regular_a_18
+San Lorenzo de Almagro,1 -                                         1,At. Tucumán,regular_a_18
+Banfield,2 -                                         1,Colón de Santa Fe,regular_a_18
+Arsenal de Sarandí,2 -                                         2,Vélez Sarsfield,regular_a_18
+Newell´s Old Boys,2 -                                         0,Gimnasia La Plata,regular_a_18
+Boca Juniors,1 -                                         0,River Plate,regular_a_18
+Talleres,1 -                                         0,Defensa y Justicia,regular_a_18
+Sarmiento,1 -                                         2,Independiente,regular_a_19
+Godoy Cruz,1 -                                         1,Tigre,regular_a_19
+Huracán,1 -                                         1,Barracas Central,regular_a_19
+Platense,1 -                                         0,Unión Santa Fe,regular_a_19
+Racing Club,1 -                                         0,Patronato,regular_a_19
+Aldosivi,1 -                                         2,Newell´s Old Boys,regular_a_19
+Colón de Santa Fe,0 -                                         0,San Lorenzo de Almagro,regular_a_19
+River Plate,1 -                                         2,Banfield,regular_a_19
+Lanús,0 -                                         1,Boca Juniors,regular_a_19
+Defensa y Justicia,2 -                                         1,Argentinos Juniors,regular_a_19
+Rosario Central,1 -                                         1,Estudiantes,regular_a_19
+At. Tucumán,1 -                                         1,Talleres,regular_a_19
+Gimnasia La Plata,2 -                                         0,Arsenal de Sarandí,regular_a_19
+Vélez Sarsfield,3 -                                         1,Central Córdoba (Santiago del Estero),regular_a_19
+Barracas Central,3 -                                         1,Godoy Cruz,regular_a_20
+Newell´s Old Boys,0 -                                         1,Sarmiento,regular_a_20
+Tigre,2 -                                         0,Vélez Sarsfield,regular_a_20
+San Lorenzo de Almagro,0 -                                         1,River Plate,regular_a_20
+Banfield,1 -                                         2,Lanús,regular_a_20
+Platense,0 -                                         1,Racing Club,regular_a_20
+Talleres,2 -                                         0,Colón de Santa Fe,regular_a_20
+Arsenal de Sarandí,3 -                                         0,Aldosivi,regular_a_20
+Boca Juniors,0 -                                         0,Huracán,regular_a_20
+Unión Santa Fe,0 -                                         1,Independiente,regular_a_20
+Argentinos Juniors,1 -                                         2,At. Tucumán,regular_a_20
+Estudiantes,1 -                                         2,Defensa y Justicia,regular_a_20
+Patronato,0 -                                         0,Rosario Central,regular_a_20
+Central Córdoba (Santiago del Estero),1 -                                         0,Gimnasia La Plata,regular_a_20
+Godoy Cruz,0 -                                         1,Boca Juniors,regular_a_21
+Huracán,3 -                                         1,Banfield,regular_a_21
+Defensa y Justicia,2 -                                         1,Patronato,regular_a_21
+Sarmiento,2 -                                         0,Arsenal de Sarandí,regular_a_21
+Lanús,2 -                                         0,San Lorenzo de Almagro,regular_a_21
+River Plate,0 -                                         1,Talleres,regular_a_21
+Independiente,1 -                                         0,Newell´s Old Boys,regular_a_21
+Gimnasia La Plata,0 -                                         1,Tigre,regular_a_21
+Rosario Central,1 -                                         1,Platense,regular_a_21
+Racing Club,2 -                                         1,Unión Santa Fe,regular_a_21
+At. Tucumán,3 -                                         1,Estudiantes,regular_a_21
+Vélez Sarsfield,1 -                                         0,Barracas Central,regular_a_21
+Aldosivi,0 -                                         3,Central Córdoba (Santiago del Estero),regular_a_21
+Colón de Santa Fe,0 -                                         4,Argentinos Juniors,regular_a_21
+Barracas Central,1 -                                         1,Gimnasia La Plata,regular_a_22
+Estudiantes,2 -                                         4,Colón de Santa Fe,regular_a_22
+Tigre,3 -                                         0,Aldosivi,regular_a_22
+Racing Club,4 -                                         3,Rosario Central,regular_a_22
+Unión Santa Fe,0 -                                         1,Newell´s Old Boys,regular_a_22
+Central Córdoba (Santiago del Estero),0 -                                         0,Sarmiento,regular_a_22
+Platense,0 -                                         0,Defensa y Justicia,regular_a_22
+San Lorenzo de Almagro,1 -                                         0,Huracán,regular_a_22
+Banfield,1 -                                         1,Godoy Cruz,regular_a_22
+Arsenal de Sarandí,0 -                                         1,Independiente,regular_a_22
+Patronato,2 -                                         1,At. Tucumán,regular_a_22
+Boca Juniors,1 -                                         0,Vélez Sarsfield,regular_a_22
+Talleres,0 -                                         1,Lanús,regular_a_22
+Argentinos Juniors,0 -                                         3,River Plate,regular_a_22
+Rosario Central,1 -                                         1,Unión Santa Fe,regular_a_23
+Aldosivi,2 -                                         0,Barracas Central,regular_a_23
+Godoy Cruz,0 -                                         0,San Lorenzo de Almagro,regular_a_23
+Newell´s Old Boys,0 -                                         0,Arsenal de Sarandí,regular_a_23
+Sarmiento,2 -                                         2,Tigre,regular_a_23
+Vélez Sarsfield,1 -                                         0,Banfield,regular_a_23
+Colón de Santa Fe,1 -                                         0,Patronato,regular_a_23
+At. Tucumán,2 -                                         1,Platense,regular_a_23
+Defensa y Justicia,3 -                                         3,Racing Club,regular_a_23
+Independiente,1 -                                         2,Central Córdoba (Santiago del Estero),regular_a_23
+River Plate,5 -                                         0,Estudiantes,regular_a_23
+Huracán,1 -                                         0,Talleres,regular_a_23
+Lanús,0 -                                         4,Argentinos Juniors,regular_a_23
+Gimnasia La Plata,1 -                                         2,Boca Juniors,regular_a_23
+Barracas Central,1 -                                         1,Sarmiento,regular_a_24
+San Lorenzo de Almagro,1 -                                         0,Vélez Sarsfield,regular_a_24
+Unión Santa Fe,1 -                                         0,Arsenal de Sarandí,regular_a_24
+Platense,1 -                                         2,Colón de Santa Fe,regular_a_24
+Tigre,2 -                                         1,Independiente,regular_a_24
+Banfield,0 -                                         2,Gimnasia La Plata,regular_a_24
+Talleres,3 -                                         1,Godoy Cruz,regular_a_24
+Boca Juniors,2 -                                         1,Aldosivi,regular_a_24
+Patronato,0 -                                         1,River Plate,regular_a_24
+Argentinos Juniors,1 -                                         1,Huracán,regular_a_24
+Rosario Central,0 -                                         0,Defensa y Justicia,regular_a_24
+Estudiantes,3 -                                         1,Lanús,regular_a_24
+Racing Club,2 -                                         0,At. Tucumán,regular_a_24
+Central Córdoba (Santiago del Estero),0 -                                         3,Newell´s Old Boys,regular_a_24
+Aldosivi,0 -                                         1,Banfield,regular_a_25
+Gimnasia La Plata,0 -                                         1,San Lorenzo de Almagro,regular_a_25
+Sarmiento,0 -                                         1,Boca Juniors,regular_a_25
+Independiente,2 -                                         2,Barracas Central,regular_a_25
+River Plate,2 -                                         1,Platense,regular_a_25
+Vélez Sarsfield,2 -                                         1,Talleres,regular_a_25
+Godoy Cruz,0 -                                         0,Argentinos Juniors,regular_a_25
+Lanús,0 -                                         1,Patronato,regular_a_25
+At. Tucumán,1 -                                         1,Rosario Central,regular_a_25
+Newell´s Old Boys,0 -                                         2,Tigre,regular_a_25
+Colón de Santa Fe,0 -                                         2,Racing Club,regular_a_25
+Defensa y Justicia,1 -                                         0,Unión Santa Fe,regular_a_25
+Huracán,3 -                                         1,Estudiantes,regular_a_25
+Arsenal de Sarandí,2 -                                         0,Central Córdoba (Santiago del Estero),regular_a_25
+Aldosivi,1 -                                         3,Talleres,regular_a_26
+Newell´s Old Boys,2 -                                         0,Boca Juniors,regular_a_26
+Godoy Cruz,0 -                                         1,Patronato,regular_a_26
+Independiente,1 -                                         0,Banfield,regular_a_26
+River Plate,1 -                                         2,Rosario Central,regular_a_26
+Arsenal de Sarandí,1 -                                         2,Barracas Central,regular_a_26
+Gimnasia La Plata,0 -                                         0,Argentinos Juniors,regular_a_26
+Vélez Sarsfield,4 -                                         0,Estudiantes,regular_a_26
+At. Tucumán,1 -                                         1,Unión Santa Fe,regular_a_26
+Sarmiento,2 -                                         4,San Lorenzo de Almagro,regular_a_26
+Colón de Santa Fe,1 -                                         2,Defensa y Justicia,regular_a_26
+Lanús,0 -                                         1,Racing Club,regular_a_26
+Central Córdoba (Santiago del Estero),1 -                                         2,Tigre,regular_a_26
+Huracán,2 -                                         0,Platense,regular_a_26
+Unión Santa Fe,1 -                                         4,Central Córdoba (Santiago del Estero),regular_a_27
+Defensa y Justicia,3 -                                         1,At. Tucumán,regular_a_27
+Estudiantes,2 -                                         0,Godoy Cruz,regular_a_27
+San Lorenzo de Almagro,3 -                                         0,Aldosivi,regular_a_27
+Argentinos Juniors,2 -                                         0,Vélez Sarsfield,regular_a_27
+Banfield,0 -                                         0,Sarmiento,regular_a_27
+Talleres,2 -                                         1,Gimnasia La Plata,regular_a_27
+Boca Juniors,2 -                                         2,Independiente,regular_a_27
+Patronato,3 -                                         2,Huracán,regular_a_27
+Racing Club,1 -                                         2,River Plate,regular_a_27
+Barracas Central,1 -                                         1,Newell´s Old Boys,regular_a_27
+Rosario Central,1 -                                         1,Colón de Santa Fe,regular_a_27
+Tigre,1 -                                         4,Arsenal de Sarandí,regular_a_27
+Platense,1 -                                         1,Lanús,regular_a_27

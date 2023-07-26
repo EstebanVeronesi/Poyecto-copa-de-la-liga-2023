@@ -1,0 +1,204 @@
+local,resultado,visitante,fecha
+Boca Juniors,-,Platense,regular_a_1
+Independiente,-,Colón,regular_a_1
+Argentinos Juniors,-,River Plate,regular_a_1
+Belgrano,-,Estudiantes (LP),regular_a_1
+Gimnasia y Esgrima (LP),-,Talleres (C),regular_a_1
+Unión,-,Racing Club,regular_a_1
+Central Córdoba (SdE),-,Newell's Old Boys,regular_a_1
+Defensa y Justicia,-,Godoy Cruz,regular_a_1
+Lanús,-,San Lorenzo,regular_a_1
+Sarmiento (J),-,Tigre,regular_a_1
+Vélez Sarsfield,-,Barracas Central,regular_a_1
+Huracán,-,Banfield,regular_a_1
+Rosario Central,-,Atlético Tucumán,regular_a_1
+Instituto,-,Arsenal,regular_a_1
+Atlético Tucumán,-,Instituto,regular_a_2
+Platense,-,Defensa y Justicia,regular_a_2
+Arsenal,-,Argentinos Juniors,regular_a_2
+Banfield,-,Rosario Central,regular_a_2
+Godoy Cruz,-,Central Córdoba (SdE),regular_a_2
+San Lorenzo,-,Belgrano,regular_a_2
+Sarmiento (J),-,Boca Juniors,regular_a_2
+Tigre,-,Racing Club,regular_a_2
+Colón,-,Gimnasia y Esgrima (LP),regular_a_2
+Newell's Old Boys,-,Lanús,regular_a_2
+River Plate,-,Barracas Central,regular_a_2
+Talleres (C),-,Huracán,regular_a_2
+Estudiantes (LP),-,Unión,regular_a_2
+Independiente,-,Vélez Sarsfield,regular_a_2
+Argentinos Juniors,-,Atlético Tucumán,regular_a_3
+Belgrano,-,Newell's Old Boys,regular_a_3
+Lanús,-,Godoy Cruz,regular_a_3
+Defensa y Justicia,-,Sarmiento (J),regular_a_3
+Barracas Central,-,Arsenal,regular_a_3
+Huracán,-,Colón,regular_a_3
+Racing Club,-,Estudiantes (LP),regular_a_3
+Rosario Central,-,Talleres (C),regular_a_3
+Boca Juniors,-,Tigre,regular_a_3
+Central Córdoba (SdE),-,Platense,regular_a_3
+Gimnasia y Esgrima (LP),-,Independiente,regular_a_3
+Instituto,-,Banfield,regular_a_3
+Unión,-,San Lorenzo,regular_a_3
+Vélez Sarsfield,-,River Plate,regular_a_3
+Independiente,-,Huracán,regular_a_4
+San Lorenzo,-,Racing Club,regular_a_4
+Atlético Tucumán,-,Barracas Central,regular_a_4
+Banfield,-,Argentinos Juniors,regular_a_4
+Gimnasia y Esgrima (LP),-,Vélez Sarsfield,regular_a_4
+Godoy Cruz,-,Belgrano,regular_a_4
+Newell's Old Boys,-,Unión,regular_a_4
+Tigre,-,Estudiantes (LP),regular_a_4
+Colón,-,Rosario Central,regular_a_4
+Sarmiento (J),-,Central Córdoba (SdE),regular_a_4
+Arsenal,-,River Plate,regular_a_4
+Boca Juniors,-,Defensa y Justicia,regular_a_4
+Platense,-,Lanús,regular_a_4
+Talleres (C),-,Instituto,regular_a_4
+Argentinos Juniors,-,Talleres (C),regular_a_5
+Belgrano,-,Platense,regular_a_5
+Vélez Sarsfield,-,Arsenal,regular_a_5
+Defensa y Justicia,-,Tigre,regular_a_5
+Estudiantes (LP),-,San Lorenzo,regular_a_5
+Racing Club,-,Newell's Old Boys,regular_a_5
+River Plate,-,Atlético Tucumán,regular_a_5
+Lanús,-,Sarmiento (J),regular_a_5
+Rosario Central,-,Independiente,regular_a_5
+Instituto,-,Colón,regular_a_5
+Unión,-,Godoy Cruz,regular_a_5
+Barracas Central,-,Banfield,regular_a_5
+Central Córdoba (SdE),-,Boca Juniors,regular_a_5
+Huracán,-,Gimnasia y Esgrima (LP),regular_a_5
+Atlético Tucumán,-,Arsenal,regular_a_6
+Godoy Cruz,-,Racing Club,regular_a_6
+Sarmiento (J),-,Belgrano,regular_a_6
+Talleres (C),-,Barracas Central,regular_a_6
+Gimnasia y Esgrima (LP),-,Rosario Central,regular_a_6
+Independiente,-,Instituto,regular_a_6
+Platense,-,Unión,regular_a_6
+Newell's Old Boys,-,Estudiantes (LP),regular_a_6
+Banfield,-,River Plate,regular_a_6
+Boca Juniors,-,Lanús,regular_a_6
+Colón,-,Argentinos Juniors,regular_a_6
+Defensa y Justicia,-,Central Córdoba (SdE),regular_a_6
+Huracán,-,Vélez Sarsfield,regular_a_6
+Tigre,-,San Lorenzo,regular_a_6
+Platense,-,Argentinos Juniors,regular_a_7
+Rosario Central,-,Newell's Old Boys,regular_a_7
+Instituto,-,Godoy Cruz,regular_a_7
+Talleres (C),-,Belgrano,regular_a_7
+Boca Juniors,-,River Plate,regular_a_7
+Estudiantes (LP),-,Gimnasia y Esgrima (LP),regular_a_7
+San Lorenzo,-,Huracán,regular_a_7
+Vélez Sarsfield,-,Tigre,regular_a_7
+Banfield,-,Lanús,regular_a_7
+Defensa y Justicia,-,Arsenal,regular_a_7
+Racing Club,-,Independiente,regular_a_7
+Atlético Tucumán,-,Central Córdoba (SdE),regular_a_7
+Barracas Central,-,Sarmiento (J),regular_a_7
+Colón,-,Unión,regular_a_7
+Arsenal,-,Banfield,regular_a_8
+Barracas Central,-,Colón,regular_a_8
+Belgrano,-,Boca Juniors,regular_a_8
+Estudiantes (LP),-,Godoy Cruz,regular_a_8
+Racing Club,-,Platense,regular_a_8
+River Plate,-,Talleres (C),regular_a_8
+Instituto,-,Gimnasia y Esgrima (LP),regular_a_8
+Unión,-,Sarmiento (J),regular_a_8
+Vélez Sarsfield,-,Atlético Tucumán,regular_a_8
+Rosario Central,-,Huracán,regular_a_8
+San Lorenzo,-,Newell's Old Boys,regular_a_8
+Argentinos Juniors,-,Independiente,regular_a_8
+Central Córdoba (SdE),-,Tigre,regular_a_8
+Lanús,-,Defensa y Justicia,regular_a_8
+Talleres (C),-,Arsenal,regular_a_9
+Banfield,-,Atlético Tucumán,regular_a_9
+Boca Juniors,-,Unión,regular_a_9
+Sarmiento (J),-,Racing Club,regular_a_9
+Tigre,-,Newell's Old Boys,regular_a_9
+Central Córdoba (SdE),-,Lanús,regular_a_9
+Colón,-,River Plate,regular_a_9
+Defensa y Justicia,-,Belgrano,regular_a_9
+Gimnasia y Esgrima (LP),-,Argentinos Juniors,regular_a_9
+Godoy Cruz,-,San Lorenzo,regular_a_9
+Independiente,-,Barracas Central,regular_a_9
+Huracán,-,Instituto,regular_a_9
+Platense,-,Estudiantes (LP),regular_a_9
+Rosario Central,-,Vélez Sarsfield,regular_a_9
+Atlético Tucumán,-,Talleres (C),regular_a_10
+Belgrano,-,Central Córdoba (SdE),regular_a_10
+Instituto,-,Rosario Central,regular_a_10
+Lanús,-,Tigre,regular_a_10
+Barracas Central,-,Gimnasia y Esgrima (LP),regular_a_10
+Estudiantes (LP),-,Sarmiento (J),regular_a_10
+Newell's Old Boys,-,Godoy Cruz,regular_a_10
+Vélez Sarsfield,-,Banfield,regular_a_10
+Argentinos Juniors,-,Huracán,regular_a_10
+Arsenal,-,Colón,regular_a_10
+Racing Club,-,Boca Juniors,regular_a_10
+River Plate,-,Independiente,regular_a_10
+San Lorenzo,-,Platense,regular_a_10
+Unión,-,Defensa y Justicia,regular_a_10
+Colón,-,Atlético Tucumán,regular_a_11
+Defensa y Justicia,-,Racing Club,regular_a_11
+Rosario Central,-,Argentinos Juniors,regular_a_11
+Instituto,-,Vélez Sarsfield,regular_a_11
+Platense,-,Newell's Old Boys,regular_a_11
+Central Córdoba (SdE),-,Unión,regular_a_11
+Huracán,-,Barracas Central,regular_a_11
+Lanús,-,Belgrano,regular_a_11
+Boca Juniors,-,Estudiantes (LP),regular_a_11
+Gimnasia y Esgrima (LP),-,River Plate,regular_a_11
+Independiente,-,Arsenal,regular_a_11
+Sarmiento (J),-,San Lorenzo,regular_a_11
+Talleres (C),-,Banfield,regular_a_11
+Tigre,-,Godoy Cruz,regular_a_11
+Banfield,-,Colón,regular_a_12
+Barracas Central,-,Rosario Central,regular_a_12
+Godoy Cruz,-,Platense,regular_a_12
+Vélez Sarsfield,-,Talleres (C),regular_a_12
+Arsenal,-,Gimnasia y Esgrima (LP),regular_a_12
+Belgrano,-,Tigre,regular_a_12
+Racing Club,-,Central Córdoba (SdE),regular_a_12
+San Lorenzo,-,Boca Juniors,regular_a_12
+Unión,-,Lanús,regular_a_12
+Argentinos Juniors,-,Instituto,regular_a_12
+Atlético Tucumán,-,Independiente,regular_a_12
+Estudiantes (LP),-,Defensa y Justicia,regular_a_12
+Newell's Old Boys,-,Sarmiento (J),regular_a_12
+River Plate,-,Huracán,regular_a_12
+Independiente,-,Banfield,regular_a_13
+Instituto,-,Barracas Central,regular_a_13
+Argentinos Juniors,-,Vélez Sarsfield,regular_a_13
+Central Córdoba (SdE),-,Estudiantes (LP),regular_a_13
+Colón,-,Talleres (C),regular_a_13
+Rosario Central,-,River Plate,regular_a_13
+Sarmiento (J),-,Godoy Cruz,regular_a_13
+Belgrano,-,Unión,regular_a_13
+Boca Juniors,-,Newell's Old Boys,regular_a_13
+Defensa y Justicia,-,San Lorenzo,regular_a_13
+Gimnasia y Esgrima (LP),-,Atlético Tucumán,regular_a_13
+Huracán,-,Arsenal,regular_a_13
+Lanús,-,Racing Club,regular_a_13
+Tigre,-,Platense,regular_a_13
+Arsenal,-,Rosario Central,regular_a_14
+Godoy Cruz,-,Boca Juniors,regular_a_14
+Newell's Old Boys,-,Defensa y Justicia,regular_a_14
+Banfield,-,Gimnasia y Esgrima (LP),regular_a_14
+Estudiantes (LP),-,Lanús,regular_a_14
+Vélez Sarsfield,-,Colón,regular_a_14
+Atlético Tucumán,-,Huracán,regular_a_14
+Platense,-,Sarmiento (J),regular_a_14
+Racing Club,-,Belgrano,regular_a_14
+River Plate,-,Instituto,regular_a_14
+San Lorenzo,-,Central Córdoba (SdE),regular_a_14
+Talleres (C),-,Independiente,regular_a_14
+Barracas Central,-,Argentinos Juniors,regular_a_14
+Unión,-,Tigre,regular_a_14
+1Grupo A,-,4Grupo B,cuartos_1
+2Grupo A,-,3Grupo B,cuartos_2
+2Grupo B,-,3Grupo A,cuartos_3
+1Grupo B,-,4Grupo A,cuartos_4
+ganador cuartos_1,-,ganador cuartos_2,semis_1
+ganador cuartos_3,-,ganador cuartos_4,semis_2
+ganador semis_1,-,ganador semis_2,final

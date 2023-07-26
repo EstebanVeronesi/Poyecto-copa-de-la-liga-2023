@@ -1,0 +1,501 @@
+local,visitante,campeon
+River Plate,River Plate,River Plate
+Rosario Central,San Lorenzo,San Lorenzo
+River Plate,River Plate,River Plate
+River Plate,San Lorenzo,River Plate
+Boca Juniors,Racing Club,Boca Juniors
+Talleres (C),Racing Club,Talleres (C)
+Argentinos Juniors,Lanús,Lanús
+Vélez Sarsfield,Lanús,Lanús
+Estudiantes (LP),Central Córdoba (SdE),Estudiantes (LP)
+Boca Juniors,Instituto,Instituto
+Gimnasia y Esgrima (LP),Racing Club,Racing Club
+Arsenal,Boca Juniors,Arsenal
+River Plate,Racing Club,Racing Club
+River Plate,Defensa y Justicia,Defensa y Justicia
+Gimnasia y Esgrima (LP),Defensa y Justicia,Gimnasia y Esgrima (LP)
+Banfield,Lanús,Lanús
+Tigre,Tigre,Tigre
+Atlético Tucumán,Estudiantes (LP),Estudiantes (LP)
+Boca Juniors,Boca Juniors,Boca Juniors
+Colón,Boca Juniors,Colón
+Belgrano,Talleres (C),Belgrano
+Defensa y Justicia,Tigre,Defensa y Justicia
+Lanús,Newell's Old Boys,Lanús
+Atlético Tucumán,Atlético Tucumán,Atlético Tucumán
+Atlético Tucumán,Boca Juniors,Boca Juniors
+Belgrano,Banfield,Banfield
+River Plate,Racing Club,River Plate
+Belgrano,Racing Club,Racing Club
+Talleres (C),Newell's Old Boys,Newell's Old Boys
+Defensa y Justicia,Rosario Central,Defensa y Justicia
+Lanús,Racing Club,Racing Club
+Sarmiento (J),Racing Club,Sarmiento (J)
+Tigre,Boca Juniors,Boca Juniors
+Newell's Old Boys,Boca Juniors,Boca Juniors
+Banfield,Estudiantes (LP),Estudiantes (LP)
+Racing Club,Rosario Central,Rosario Central
+Racing Club,Boca Juniors,Racing Club
+Sarmiento (J),Banfield,Sarmiento (J)
+San Lorenzo,Racing Club,Racing Club
+Vélez Sarsfield,Vélez Sarsfield,Vélez Sarsfield
+Racing Club,Boca Juniors,Racing Club
+Vélez Sarsfield,Instituto,Vélez Sarsfield
+Racing Club,Barracas Central,Barracas Central
+Central Córdoba (SdE),Defensa y Justicia,Central Córdoba (SdE)
+Boca Juniors,Racing Club,Boca Juniors
+Banfield,Defensa y Justicia,Banfield
+River Plate,Racing Club,River Plate
+Newell's Old Boys,River Plate,River Plate
+Independiente,Racing Club,Racing Club
+Rosario Central,Central Córdoba (SdE),Central Córdoba (SdE)
+Arsenal,Barracas Central,Arsenal
+Racing Club,Newell's Old Boys,Newell's Old Boys
+Talleres (C),Defensa y Justicia,Talleres (C)
+San Lorenzo,Boca Juniors,Boca Juniors
+River Plate,Estudiantes (LP),River Plate
+San Lorenzo,San Lorenzo,San Lorenzo
+Defensa y Justicia,Boca Juniors,Boca Juniors
+River Plate,Estudiantes (LP),River Plate
+Belgrano,Estudiantes (LP),Belgrano
+Barracas Central,Unión,Barracas Central
+Argentinos Juniors,Sarmiento (J),Sarmiento (J)
+Rosario Central,Estudiantes (LP),Rosario Central
+Godoy Cruz,Tigre,Tigre
+River Plate,Boca Juniors,Boca Juniors
+River Plate,Racing Club,River Plate
+Boca Juniors,Argentinos Juniors,Argentinos Juniors
+River Plate,San Lorenzo,River Plate
+River Plate,Defensa y Justicia,River Plate
+Argentinos Juniors,Independiente,Independiente
+Boca Juniors,Newell's Old Boys,Boca Juniors
+Banfield,Boca Juniors,Boca Juniors
+Vélez Sarsfield,Arsenal,Arsenal
+Independiente,Boca Juniors,Boca Juniors
+River Plate,Racing Club,Racing Club
+Barracas Central,Rosario Central,Rosario Central
+Racing Club,Independiente,Independiente
+Defensa y Justicia,Talleres (C),Talleres (C)
+River Plate,Boca Juniors,River Plate
+Vélez Sarsfield,Estudiantes (LP),Estudiantes (LP)
+Unión,Gimnasia y Esgrima (LP),Gimnasia y Esgrima (LP)
+River Plate,Central Córdoba (SdE),Central Córdoba (SdE)
+Unión,San Lorenzo,Unión
+River Plate,Defensa y Justicia,Defensa y Justicia
+San Lorenzo,Instituto,Instituto
+Newell's Old Boys,Boca Juniors,Boca Juniors
+Boca Juniors,Banfield,Boca Juniors
+Arsenal,Boca Juniors,Boca Juniors
+Rosario Central,Rosario Central,Rosario Central
+Estudiantes (LP),Argentinos Juniors,Estudiantes (LP)
+River Plate,Talleres (C),Talleres (C)
+Argentinos Juniors,San Lorenzo,Argentinos Juniors
+Racing Club,Argentinos Juniors,Racing Club
+Lanús,River Plate,River Plate
+Boca Juniors,Boca Juniors,Boca Juniors
+River Plate,Racing Club,River Plate
+Vélez Sarsfield,Tigre,Tigre
+River Plate,Boca Juniors,River Plate
+Rosario Central,River Plate,Rosario Central
+Boca Juniors,Argentinos Juniors,Boca Juniors
+River Plate,River Plate,River Plate
+Tigre,Boca Juniors,Boca Juniors
+Gimnasia y Esgrima (LP),Defensa y Justicia,Defensa y Justicia
+Defensa y Justicia,Defensa y Justicia,Defensa y Justicia
+Boca Juniors,Racing Club,Boca Juniors
+Rosario Central,River Plate,River Plate
+River Plate,Atlético Tucumán,River Plate
+San Lorenzo,River Plate,San Lorenzo
+Defensa y Justicia,Defensa y Justicia,Defensa y Justicia
+Newell's Old Boys,Arsenal,Newell's Old Boys
+Vélez Sarsfield,Argentinos Juniors,Argentinos Juniors
+Defensa y Justicia,Racing Club,Racing Club
+Racing Club,Lanús,Racing Club
+Rosario Central,Vélez Sarsfield,Rosario Central
+Rosario Central,Racing Club,Racing Club
+Sarmiento (J),Boca Juniors,Boca Juniors
+Lanús,Boca Juniors,Lanús
+River Plate,Rosario Central,River Plate
+River Plate,Boca Juniors,Boca Juniors
+Boca Juniors,San Lorenzo,Boca Juniors
+Vélez Sarsfield,Tigre,Tigre
+Tigre,Rosario Central,Rosario Central
+Boca Juniors,River Plate,River Plate
+Sarmiento (J),Boca Juniors,Boca Juniors
+Estudiantes (LP),Banfield,Estudiantes (LP)
+River Plate,Racing Club,Racing Club
+Talleres (C),River Plate,River Plate
+Vélez Sarsfield,Boca Juniors,Boca Juniors
+Argentinos Juniors,River Plate,River Plate
+Argentinos Juniors,Rosario Central,Argentinos Juniors
+River Plate,Huracán,Huracán
+Unión,Gimnasia y Esgrima (LP),Gimnasia y Esgrima (LP)
+River Plate,Defensa y Justicia,Defensa y Justicia
+Rosario Central,Newell's Old Boys,Newell's Old Boys
+River Plate,Huracán,River Plate
+Central Córdoba (SdE),Boca Juniors,Boca Juniors
+River Plate,River Plate,River Plate
+Instituto,River Plate,River Plate
+River Plate,Rosario Central,River Plate
+Belgrano,Vélez Sarsfield,Belgrano
+San Lorenzo,Boca Juniors,San Lorenzo
+Talleres (C),Atlético Tucumán,Atlético Tucumán
+Newell's Old Boys,Defensa y Justicia,Defensa y Justicia
+San Lorenzo,San Lorenzo,San Lorenzo
+Vélez Sarsfield,Argentinos Juniors,Vélez Sarsfield
+Estudiantes (LP),Platense,Platense
+River Plate,Boca Juniors,River Plate
+Newell's Old Boys,Boca Juniors,Boca Juniors
+Argentinos Juniors,Racing Club,Argentinos Juniors
+Vélez Sarsfield,Talleres (C),Talleres (C)
+Defensa y Justicia,San Lorenzo,San Lorenzo
+Rosario Central,Atlético Tucumán,Atlético Tucumán
+River Plate,Banfield,Banfield
+Lanús,Boca Juniors,Boca Juniors
+River Plate,Gimnasia y Esgrima (LP),River Plate
+San Lorenzo,Independiente,San Lorenzo
+Racing Club,Racing Club,Racing Club
+River Plate,Argentinos Juniors,River Plate
+Estudiantes (LP),Talleres (C),Estudiantes (LP)
+River Plate,Tigre,Tigre
+Tigre,Boca Juniors,Tigre
+River Plate,Defensa y Justicia,River Plate
+Belgrano,Boca Juniors,Boca Juniors
+Lanús,Instituto,Lanús
+Boca Juniors,Boca Juniors,Boca Juniors
+River Plate,Argentinos Juniors,River Plate
+Independiente,Boca Juniors,Boca Juniors
+Racing Club,Talleres (C),Talleres (C)
+Rosario Central,Argentinos Juniors,Argentinos Juniors
+Boca Juniors,San Lorenzo,Boca Juniors
+River Plate,Racing Club,Racing Club
+San Lorenzo,Boca Juniors,Boca Juniors
+River Plate,Talleres (C),River Plate
+San Lorenzo,Boca Juniors,Boca Juniors
+Argentinos Juniors,Boca Juniors,Argentinos Juniors
+San Lorenzo,Boca Juniors,Boca Juniors
+Racing Club,Gimnasia y Esgrima (LP),Racing Club
+River Plate,Defensa y Justicia,River Plate
+Central Córdoba (SdE),Racing Club,Racing Club
+River Plate,Rosario Central,Rosario Central
+Unión,Racing Club,Unión
+Argentinos Juniors,Argentinos Juniors,Argentinos Juniors
+River Plate,Sarmiento (J),River Plate
+Racing Club,Boca Juniors,Racing Club
+Independiente,Boca Juniors,Independiente
+Boca Juniors,Barracas Central,Barracas Central
+Central Córdoba (SdE),River Plate,River Plate
+Gimnasia y Esgrima (LP),Gimnasia y Esgrima (LP),Gimnasia y Esgrima (LP)
+Tigre,Talleres (C),Talleres (C)
+Colón,Lanús,Lanús
+Boca Juniors,Atlético Tucumán,Atlético Tucumán
+Racing Club,Talleres (C),Talleres (C)
+Boca Juniors,Argentinos Juniors,Boca Juniors
+River Plate,River Plate,River Plate
+Sarmiento (J),Racing Club,Racing Club
+Boca Juniors,River Plate,Boca Juniors
+Tigre,Boca Juniors,Boca Juniors
+Racing Club,Racing Club,Racing Club
+Belgrano,Atlético Tucumán,Atlético Tucumán
+Estudiantes (LP),Independiente,Estudiantes (LP)
+Defensa y Justicia,Boca Juniors,Boca Juniors
+Estudiantes (LP),Defensa y Justicia,Defensa y Justicia
+Arsenal,Racing Club,Racing Club
+River Plate,River Plate,River Plate
+Boca Juniors,Arsenal,Boca Juniors
+Tigre,San Lorenzo,Tigre
+Boca Juniors,Boca Juniors,Boca Juniors
+Racing Club,Newell's Old Boys,Racing Club
+Central Córdoba (SdE),Defensa y Justicia,Defensa y Justicia
+Rosario Central,Estudiantes (LP),Rosario Central
+Defensa y Justicia,River Plate,Defensa y Justicia
+Gimnasia y Esgrima (LP),Racing Club,Racing Club
+Central Córdoba (SdE),Boca Juniors,Boca Juniors
+Racing Club,River Plate,River Plate
+Boca Juniors,Newell's Old Boys,Newell's Old Boys
+Arsenal,River Plate,River Plate
+Newell's Old Boys,Argentinos Juniors,Newell's Old Boys
+Argentinos Juniors,Racing Club,Racing Club
+River Plate,Defensa y Justicia,River Plate
+Argentinos Juniors,Rosario Central,Argentinos Juniors
+Sarmiento (J),Boca Juniors,Boca Juniors
+River Plate,Vélez Sarsfield,River Plate
+River Plate,River Plate,River Plate
+River Plate,Barracas Central,Barracas Central
+Defensa y Justicia,Huracán,Huracán
+Defensa y Justicia,Huracán,Defensa y Justicia
+San Lorenzo,Instituto,San Lorenzo
+San Lorenzo,Defensa y Justicia,San Lorenzo
+Platense,Belgrano,Platense
+Unión,Unión,Unión
+Godoy Cruz,Sarmiento (J),Godoy Cruz
+Arsenal,Racing Club,Arsenal
+Boca Juniors,Defensa y Justicia,Defensa y Justicia
+Arsenal,Boca Juniors,Boca Juniors
+Gimnasia y Esgrima (LP),Rosario Central,Rosario Central
+San Lorenzo,Defensa y Justicia,San Lorenzo
+Independiente,River Plate,Independiente
+Boca Juniors,Gimnasia y Esgrima (LP),Gimnasia y Esgrima (LP)
+Tigre,Barracas Central,Barracas Central
+Defensa y Justicia,Racing Club,Defensa y Justicia
+Arsenal,Belgrano,Arsenal
+Tigre,Rosario Central,Rosario Central
+Vélez Sarsfield,Huracán,Vélez Sarsfield
+San Lorenzo,River Plate,River Plate
+River Plate,River Plate,River Plate
+River Plate,Estudiantes (LP),River Plate
+River Plate,Independiente,River Plate
+Belgrano,Argentinos Juniors,Argentinos Juniors
+River Plate,Boca Juniors,River Plate
+Racing Club,Racing Club,Racing Club
+Estudiantes (LP),Estudiantes (LP),Estudiantes (LP)
+Racing Club,Argentinos Juniors,Argentinos Juniors
+Argentinos Juniors,Belgrano,Argentinos Juniors
+Arsenal,Gimnasia y Esgrima (LP),Gimnasia y Esgrima (LP)
+Talleres (C),Arsenal,Arsenal
+River Plate,Racing Club,River Plate
+Rosario Central,Rosario Central,Rosario Central
+River Plate,Boca Juniors,River Plate
+Boca Juniors,Boca Juniors,Boca Juniors
+River Plate,Boca Juniors,Boca Juniors
+Argentinos Juniors,Talleres (C),Talleres (C)
+Argentinos Juniors,Lanús,Lanús
+Newell's Old Boys,Banfield,Newell's Old Boys
+Belgrano,Belgrano,Belgrano
+Defensa y Justicia,Defensa y Justicia,Defensa y Justicia
+Lanús,Lanús,Lanús
+Argentinos Juniors,Defensa y Justicia,Defensa y Justicia
+Defensa y Justicia,Racing Club,Defensa y Justicia
+Tigre,Estudiantes (LP),Tigre
+River Plate,Estudiantes (LP),River Plate
+Atlético Tucumán,Atlético Tucumán,Atlético Tucumán
+River Plate,Boca Juniors,Boca Juniors
+Rosario Central,Banfield,Rosario Central
+Tigre,San Lorenzo,San Lorenzo
+Vélez Sarsfield,Racing Club,Racing Club
+Defensa y Justicia,Instituto,Defensa y Justicia
+Barracas Central,Defensa y Justicia,Barracas Central
+River Plate,Newell's Old Boys,River Plate
+Huracán,Boca Juniors,Boca Juniors
+Gimnasia y Esgrima (LP),Boca Juniors,Boca Juniors
+Talleres (C),Tigre,Tigre
+River Plate,River Plate,River Plate
+Newell's Old Boys,Boca Juniors,Boca Juniors
+Racing Club,Boca Juniors,Boca Juniors
+Gimnasia y Esgrima (LP),River Plate,River Plate
+Talleres (C),Vélez Sarsfield,Vélez Sarsfield
+Belgrano,River Plate,River Plate
+River Plate,Argentinos Juniors,Argentinos Juniors
+Estudiantes (LP),Boca Juniors,Boca Juniors
+Vélez Sarsfield,Huracán,Vélez Sarsfield
+Atlético Tucumán,Vélez Sarsfield,Atlético Tucumán
+River Plate,Atlético Tucumán,River Plate
+Defensa y Justicia,Defensa y Justicia,Defensa y Justicia
+Vélez Sarsfield,Boca Juniors,Boca Juniors
+Central Córdoba (SdE),Boca Juniors,Central Córdoba (SdE)
+River Plate,Belgrano,River Plate
+San Lorenzo,River Plate,San Lorenzo
+River Plate,San Lorenzo,San Lorenzo
+Atlético Tucumán,Independiente,Independiente
+River Plate,River Plate,River Plate
+Lanús,Argentinos Juniors,Argentinos Juniors
+Talleres (C),Newell's Old Boys,Newell's Old Boys
+River Plate,Vélez Sarsfield,River Plate
+River Plate,Boca Juniors,River Plate
+River Plate,Racing Club,Racing Club
+River Plate,Independiente,River Plate
+River Plate,Boca Juniors,River Plate
+River Plate,Boca Juniors,Boca Juniors
+River Plate,Racing Club,River Plate
+River Plate,Boca Juniors,Boca Juniors
+Lanús,River Plate,River Plate
+Arsenal,Platense,Arsenal
+Argentinos Juniors,Boca Juniors,Boca Juniors
+Lanús,Unión,Lanús
+Racing Club,Defensa y Justicia,Racing Club
+River Plate,River Plate,River Plate
+Estudiantes (LP),Estudiantes (LP),Estudiantes (LP)
+Instituto,Rosario Central,Rosario Central
+Tigre,River Plate,Tigre
+River Plate,River Plate,River Plate
+River Plate,Tigre,River Plate
+Defensa y Justicia,Arsenal,Defensa y Justicia
+Rosario Central,Boca Juniors,Boca Juniors
+River Plate,Talleres (C),River Plate
+Racing Club,Racing Club,Racing Club
+Tigre,Tigre,Tigre
+Central Córdoba (SdE),Boca Juniors,Boca Juniors
+Platense,River Plate,River Plate
+Rosario Central,San Lorenzo,San Lorenzo
+Defensa y Justicia,Boca Juniors,Boca Juniors
+Boca Juniors,Racing Club,Racing Club
+Lanús,Tigre,Tigre
+Lanús,Boca Juniors,Boca Juniors
+Atlético Tucumán,Racing Club,Racing Club
+Vélez Sarsfield,Belgrano,Vélez Sarsfield
+Rosario Central,Gimnasia y Esgrima (LP),Rosario Central
+Vélez Sarsfield,Racing Club,Racing Club
+Instituto,River Plate,River Plate
+River Plate,River Plate,River Plate
+River Plate,Racing Club,River Plate
+River Plate,River Plate,River Plate
+Tigre,Estudiantes (LP),Estudiantes (LP)
+Boca Juniors,Tigre,Boca Juniors
+Vélez Sarsfield,Defensa y Justicia,Vélez Sarsfield
+River Plate,Talleres (C),River Plate
+Independiente,River Plate,River Plate
+Newell's Old Boys,Racing Club,Racing Club
+Estudiantes (LP),Argentinos Juniors,Estudiantes (LP)
+Platense,Boca Juniors,Boca Juniors
+Racing Club,San Lorenzo,San Lorenzo
+Boca Juniors,Defensa y Justicia,Boca Juniors
+San Lorenzo,Colón,Colón
+Estudiantes (LP),Belgrano,Estudiantes (LP)
+Boca Juniors,Boca Juniors,Boca Juniors
+Boca Juniors,River Plate,River Plate
+Defensa y Justicia,Vélez Sarsfield,Vélez Sarsfield
+Racing Club,Boca Juniors,Racing Club
+Racing Club,Racing Club,Racing Club
+River Plate,Banfield,River Plate
+Atlético Tucumán,Boca Juniors,Atlético Tucumán
+Boca Juniors,Gimnasia y Esgrima (LP),Boca Juniors
+Estudiantes (LP),Talleres (C),Estudiantes (LP)
+River Plate,Racing Club,Racing Club
+Estudiantes (LP),Independiente,Independiente
+Argentinos Juniors,Racing Club,Racing Club
+Racing Club,Newell's Old Boys,Racing Club
+River Plate,River Plate,River Plate
+River Plate,Racing Club,Racing Club
+Racing Club,Racing Club,Racing Club
+Arsenal,Racing Club,Racing Club
+Racing Club,Boca Juniors,Racing Club
+Rosario Central,River Plate,Rosario Central
+Unión,Talleres (C),Talleres (C)
+Vélez Sarsfield,Vélez Sarsfield,Vélez Sarsfield
+River Plate,Estudiantes (LP),Estudiantes (LP)
+River Plate,Tigre,Tigre
+Barracas Central,Barracas Central,Barracas Central
+Platense,Huracán,Huracán
+Boca Juniors,Tigre,Boca Juniors
+Talleres (C),Atlético Tucumán,Atlético Tucumán
+Atlético Tucumán,Sarmiento (J),Atlético Tucumán
+River Plate,Argentinos Juniors,Argentinos Juniors
+Defensa y Justicia,Boca Juniors,Defensa y Justicia
+Talleres (C),Talleres (C),Talleres (C)
+River Plate,Defensa y Justicia,River Plate
+Belgrano,Boca Juniors,Boca Juniors
+Estudiantes (LP),Boca Juniors,Estudiantes (LP)
+Boca Juniors,Boca Juniors,Boca Juniors
+River Plate,River Plate,River Plate
+Racing Club,Belgrano,Belgrano
+Racing Club,Vélez Sarsfield,Vélez Sarsfield
+Boca Juniors,Rosario Central,Boca Juniors
+Gimnasia y Esgrima (LP),Defensa y Justicia,Defensa y Justicia
+Racing Club,Vélez Sarsfield,Racing Club
+Banfield,Defensa y Justicia,Banfield
+River Plate,Gimnasia y Esgrima (LP),River Plate
+Boca Juniors,Defensa y Justicia,Defensa y Justicia
+San Lorenzo,Boca Juniors,San Lorenzo
+Racing Club,Vélez Sarsfield,Racing Club
+Defensa y Justicia,Defensa y Justicia,Defensa y Justicia
+River Plate,River Plate,River Plate
+Barracas Central,Defensa y Justicia,Defensa y Justicia
+Argentinos Juniors,Boca Juniors,Boca Juniors
+San Lorenzo,Defensa y Justicia,San Lorenzo
+River Plate,Defensa y Justicia,River Plate
+River Plate,Independiente,River Plate
+River Plate,Barracas Central,River Plate
+River Plate,Racing Club,River Plate
+Talleres (C),Racing Club,Talleres (C)
+Instituto,Colón,Instituto
+Independiente,Independiente,Independiente
+Vélez Sarsfield,Estudiantes (LP),Vélez Sarsfield
+Defensa y Justicia,Boca Juniors,Defensa y Justicia
+Lanús,Lanús,Lanús
+River Plate,Vélez Sarsfield,River Plate
+Rosario Central,Gimnasia y Esgrima (LP),Rosario Central
+River Plate,Banfield,River Plate
+Rosario Central,Boca Juniors,Rosario Central
+Tigre,River Plate,River Plate
+Argentinos Juniors,Talleres (C),Argentinos Juniors
+Racing Club,Sarmiento (J),Racing Club
+River Plate,River Plate,River Plate
+Arsenal,Estudiantes (LP),Estudiantes (LP)
+Colón,Defensa y Justicia,Defensa y Justicia
+Instituto,Rosario Central,Instituto
+Rosario Central,Lanús,Rosario Central
+River Plate,Boca Juniors,River Plate
+Arsenal,Arsenal,Arsenal
+Boca Juniors,Boca Juniors,Boca Juniors
+Lanús,Defensa y Justicia,Defensa y Justicia
+Rosario Central,Racing Club,Racing Club
+Defensa y Justicia,Newell's Old Boys,Newell's Old Boys
+Newell's Old Boys,Estudiantes (LP),Estudiantes (LP)
+Racing Club,River Plate,Racing Club
+Instituto,Talleres (C),Instituto
+Rosario Central,Racing Club,Racing Club
+Newell's Old Boys,Boca Juniors,Boca Juniors
+Independiente,Independiente,Independiente
+Tigre,River Plate,River Plate
+Barracas Central,Argentinos Juniors,Argentinos Juniors
+Argentinos Juniors,Defensa y Justicia,Defensa y Justicia
+River Plate,Boca Juniors,Boca Juniors
+River Plate,Boca Juniors,Boca Juniors
+Racing Club,Boca Juniors,Boca Juniors
+River Plate,Boca Juniors,River Plate
+Gimnasia y Esgrima (LP),Boca Juniors,Boca Juniors
+San Lorenzo,Defensa y Justicia,Defensa y Justicia
+River Plate,River Plate,River Plate
+Talleres (C),Banfield,Banfield
+Talleres (C),Vélez Sarsfield,Vélez Sarsfield
+Vélez Sarsfield,Racing Club,Vélez Sarsfield
+Racing Club,Barracas Central,Barracas Central
+River Plate,River Plate,River Plate
+River Plate,Vélez Sarsfield,River Plate
+Vélez Sarsfield,Defensa y Justicia,Defensa y Justicia
+Estudiantes (LP),River Plate,River Plate
+Estudiantes (LP),Tigre,Estudiantes (LP)
+Instituto,Boca Juniors,Instituto
+Argentinos Juniors,Argentinos Juniors,Argentinos Juniors
+Rosario Central,Huracán,Rosario Central
+Rosario Central,River Plate,River Plate
+Racing Club,Boca Juniors,Boca Juniors
+San Lorenzo,Estudiantes (LP),Estudiantes (LP)
+Colón,River Plate,River Plate
+Defensa y Justicia,Defensa y Justicia,Defensa y Justicia
+Atlético Tucumán,Boca Juniors,Boca Juniors
+River Plate,Tigre,River Plate
+Instituto,Defensa y Justicia,Defensa y Justicia
+Barracas Central,Boca Juniors,Boca Juniors
+Racing Club,Argentinos Juniors,Racing Club
+Racing Club,Racing Club,Racing Club
+San Lorenzo,Estudiantes (LP),Estudiantes (LP)
+Vélez Sarsfield,Atlético Tucumán,Atlético Tucumán
+Argentinos Juniors,Boca Juniors,Boca Juniors
+Argentinos Juniors,Argentinos Juniors,Argentinos Juniors
+Argentinos Juniors,Atlético Tucumán,Atlético Tucumán
+San Lorenzo,San Lorenzo,San Lorenzo
+River Plate,Tigre,Tigre
+Boca Juniors,Arsenal,Boca Juniors
+Arsenal,Racing Club,Racing Club
+Belgrano,Boca Juniors,Boca Juniors
+Barracas Central,San Lorenzo,San Lorenzo
+Platense,River Plate,Platense
+Atlético Tucumán,Boca Juniors,Boca Juniors
+Racing Club,Boca Juniors,Boca Juniors
+River Plate,Arsenal,River Plate
+Boca Juniors,Defensa y Justicia,Boca Juniors
+Newell's Old Boys,Boca Juniors,Boca Juniors
+Defensa y Justicia,Talleres (C),Defensa y Justicia
+Argentinos Juniors,Boca Juniors,Boca Juniors
+Belgrano,Boca Juniors,Belgrano
+Unión,Racing Club,Racing Club
+Rosario Central,Boca Juniors,Boca Juniors
+Barracas Central,Boca Juniors,Barracas Central
+River Plate,Boca Juniors,River Plate
+Huracán,Boca Juniors,Boca Juniors
+Newell's Old Boys,River Plate,Newell's Old Boys
+River Plate,Defensa y Justicia,Defensa y Justicia
+Rosario Central,Racing Club,Rosario Central
+Newell's Old Boys,San Lorenzo,Newell's Old Boys
+Boca Juniors,Defensa y Justicia,Defensa y Justicia
