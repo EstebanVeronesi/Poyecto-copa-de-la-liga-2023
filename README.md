@@ -1,8 +1,8 @@
-# Poyecto copa de la liga 2023
-Proyecto de de analisis de datos y Simulación
+# Project copa de la liga 2023
+Data Analysis and Simulation Project
 
-Proyecto de práctica en el cual se realizaron 500 simulaciones del desarrollo de la copa de la liga 2023.
-En este proyecto se realizó Web-Scraping, manejo de archivos, programación en Python, simulación de resultados con Distribución de Poisson y un informe en Power-BI.
+Practice project in which 500 simulations of the development of the 2023 league cup were carried out.
+This project involved Web-Scraping, file management, Python programming, simulation of results with Poisson Distribution and a Power-BI report.
 
-Informe final:
+Final Inform:
 ![Presentacion resumen_pages-to-jpg-0001](https://github.com/EstebanVeronesi/Poyecto-copa-de-la-liga-2023/assets/66653440/2a826f78-2f64-47ab-b003-f1e63bcfeae0)
