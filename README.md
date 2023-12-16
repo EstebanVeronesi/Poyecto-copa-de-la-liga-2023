@@ -4,5 +4,4 @@ Data Analysis and Simulation Project
 Practice project in which 500 simulations of the development of the 2023 league cup were carried out.
 This project involved Web-Scraping, file management, Python programming, simulation of results with Poisson Distribution and a Power-BI report.
 
-Final Inform:
-![Presentacion resumen_pages-to-jpg-0001](https://github.com/EstebanVeronesi/Poyecto-copa-de-la-liga-2023/assets/66653440/2a826f78-2f64-47ab-b003-f1e63bcfeae0)
+
